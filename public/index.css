@@ -1,0 +1,39 @@
+body {
+  background-color: #000000;
+  font-family: "Verdana", sans-serif;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.footer {
+  color: white;
+  margin: 10px auto;
+  text-align: center;
+}
+
+h1 {
+  color: gold;
+  font-family: "Bookman", serif;
+  font-size: 24pt;
+  font-style: oblique;
+  margin: 10px auto;
+  text-align: center;
+}
+
+a {
+  color: white;
+  font-style: normal;
+  text-decoration: none
+}
+
+a:hover {
+  text-decoration: underline;
+}
